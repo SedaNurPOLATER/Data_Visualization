@@ -1,1 +1,1 @@
-# VeriGorselestime_Python
+# Veri Gorselestirme Python
