@@ -1,1 +1,1 @@
-# Veri Gorselestirme Python
+# Veri Gorsellestirme Python
